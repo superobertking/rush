@@ -1,7 +1,7 @@
 # rush
-A toy rust shell.
+A toy rust shell (in rust newbie's coding style, maybe rewritten sometime later).
 
-HW0 of ShanghaiTech IST course.
+HW0 of ShanghaiTech IST course 2017s.
 
 > ### Input language
 >
